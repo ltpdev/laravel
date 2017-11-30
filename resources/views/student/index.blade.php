@@ -37,7 +37,7 @@
     <!-- 分页  -->
     <div>
         <div class="pull-right">
-            {{$students->render()}}}
+            {{$students->render()}}
         </div>
     </div>
 @stop
